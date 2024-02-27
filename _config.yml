@@ -9,8 +9,8 @@ newsletter_action:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Curso de robótica.
-author: Francisco Ciampo
-  name:
+author:
+  name: Francisco Ciampo
   email:
 
 # -----
