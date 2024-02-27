@@ -16,7 +16,7 @@ author: Francisco Ciampo
 # -----
 # Build
 
-timezone: Etc/UTC-3
+timezone: Etc/UTC
 
 permalink: /:categories/:title/
 
